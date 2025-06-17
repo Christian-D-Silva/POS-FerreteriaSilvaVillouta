@@ -1,5 +1,5 @@
 
-🛠️ #Plataforma POS para Ferretería – Gestión de Inventario y Ventas
+# Plataforma POS para Ferretería – Gestión de Inventario y Ventas
 Este repositorio contiene el desarrollo de una plataforma POS (Point of Sale) creada para resolver problemas de gestión en una ferretería, específicamente en el control de inventario 📦 y ventas 💰. La solución fue diseñada para automatizar tareas repetitivas, reducir errores humanos 🙅‍♂️ y centralizar la administración del negocio 🧾, mejorando así su eficiencia operativa ⚙️.
 
 
