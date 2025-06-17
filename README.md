@@ -6,8 +6,11 @@ Este repositorio contiene el desarrollo de una plataforma POS (Point of Sale) cr
 # Descripción de la aplicación
 
 🔧 Funcionalidades Principales
+
+
 🆕 Registrar productos al inventario
-Permite ingresar nuevos productos con su respectiva información (SKU o ID, nombre, categoría, precio, stock inicial, etc.) y actualizar productos existentes. Asegura un control centralizado del inventario.
+Permite ingresar nuevos productos con su respectiva información (SKU o ID, nombre, categoría, precio, stock inicial, etc.) y actualizar productos existentes. 
+Asegura un control centralizado del inventario.
 
 📊 Consultas de stock en tiempo real
 Visualización inmediata del inventario disponible. Permite búsquedas por nombre o categoría, evitando conteos físicos innecesarios.
